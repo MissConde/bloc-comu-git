@@ -1,1 +1,3 @@
-Avui es 6 d Octubre
+Avui es 6 d Octubre.
+
+Estem ara mateix en branch1!
